@@ -4,8 +4,10 @@ Using Geotools (LGPL)
 
 # Usage
 
-`mvn clean install package`
-`java -jar target/shp-file-reader*.jar some-shp-file.shp`
+```bash
+mvn clean install package
+java -jar target/shp-file-reader*.jar some-shp-file.shp
+```
 
 # License
 
